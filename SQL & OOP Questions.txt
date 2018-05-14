@@ -1,0 +1,64 @@
+What is object-oriented programming (OOP)?
+ What is class? Give a real life example.
+ What is an object? Give a real life example.
+ Explain the basic features of OOPs.
+ What is the relationship between a class and an object?
+ What is difference between OOP and procedural Language?
+ What is encapsulation? Why encapsulation is necessary, explain with example?
+ Tell about excess modifier.
+ What is value type and reference type, explain with example?
+ What is method overloading, explain with example?
+ What is method overriding, explain with example?
+ What is polymorphism, explain with example?
+ What is run time polymorphism, explain with example?
+ How is method overriding different from method overloading?
+ What is inheritance, explain with example?
+ What is interface? Why interface is used?
+ What is abstract class? Why abstract class is used?
+ What is static member? Why static member? How static member is accessed?
+ Can you specify the accessibility modifier for methods inside the interface?
+ What is constructor? Why constructor is used?
+ What is constructor overloading?
+ Is it possible for a class to inherit the constructor of its base class?
+ Is it possible for a class to inherit the constructor of its base class?
+ What is the difference between arrays and collection?
+ What are collections and generics?
+ How can you prevent your class to be inherited further?
+ What is the index value of the first element in an array?
+
+
+What is the difference between Delete and Truncate in SQL Server?
+What is trigger? Write syntax of trigger.
+What is the difference between “char” and “varchar”?
+What is function in Sql server? How many types of functions?
+What is stored procedure? Write syntax of stored procedure?
+How parameter is passed to sql function and how call a function?
+What is input and output parameter in stored procedure? How it works?
+Write syntax to create a table.
+What is view? What is the difference between table and view?
+What is constraint? Tell different type of constraint and its functionality.
+Discuss different type of joining. How it works?
+How left outer joining works?
+How inner join works? Give an example.
+How outer join works? Give an example.
+How right outer join works? Give an example.
+How full outer join works? Give an example?
+How Cross Join works? Give an example?
+Which one faster – Inner join or Cross Join?
+How do you move all data to another table using query?
+Find out the maximum salary from a salary table?
+How do you find number of employee from employee table?
+What is commit and rollback? How it works?
+What do you know about transaction block? How it works?
+How primary key constraints, foreign key constraints and default constraints works?
+How not null constraints, check constraints, rules constraint and unique constraints works?
+What are DDL and DML? Give example.
+How distinct keyword works?
+What do you know about sql wildcard? Give example.
+How to select top 10 employees from employee table?
+How “between” and “in” operator works?
+Union / Union all, requirement and difference.
+What is sub query? Give an example.
+How “having” clause works?
+How “group by” clause works?
+Why “Where” clause is needed?
